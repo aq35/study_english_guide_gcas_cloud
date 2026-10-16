@@ -13,5 +13,6 @@
 - [x] 段階3 [`03-reasons/`](03-reasons/README.md) なぜそう考えるのか(背景と理由)
 - [x] 段階4 [`04-aws/`](04-aws/README.md) AWSではどう実現するか(AWS技術ガイド対応)
 - [x] 段階5 [練習ページ](../../practice.md) 自分の言葉で言う(シャドーイング・言い換え)
+- 補章 [マイクロサービス](microservice/README.md): マイクロサービスの定義・利点・基準・AWSでの実現
 
 [← 大括りに戻る](../../overview.md)
