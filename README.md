@@ -12,6 +12,7 @@
 - [topics/security-aws.md](topics/security-aws.md): 補章 セキュリティ(AWS編)を読む
 - [topics/reference-architecture.md](topics/reference-architecture.md): 補章 リファレンスアーキテクチャを読む(設計全般)
 - [topics/operations-modernization.md](topics/operations-modernization.md): 補章 運用モダン化実践ガイドを読む(運用の進め方)
+- [topics/network-and-integration-aws.md](topics/network-and-integration-aws.md): 補章 ネットワーク接続とシステム間連携(AWS編)を読む
 - [principles/](principles/): 考え方ごとのフォルダ。段階を追って深掘りする
 
 ## 書き分けの約束
