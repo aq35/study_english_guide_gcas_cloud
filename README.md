@@ -4,6 +4,7 @@
 
 - [overview.md](overview.md): 大括り(8つの考え方)
 - [linking-rules.md](linking-rules.md): リンキングのルール
+- [practice.md](practice.md): 段階5 自分の言葉で言う練習
 - [principles/](principles/): 考え方ごとのフォルダ。段階を追って深掘りする
 
 ## 書き分けの約束

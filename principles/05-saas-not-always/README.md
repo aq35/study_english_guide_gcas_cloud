@@ -7,11 +7,11 @@
 - **English**: SaaS is not always the answer; compare the lifecycle cost.
 - **カタカナ**: サースィズ / ナッオールウェイズ / ジアンサー / コンペアザ / ライフサイクルコスト
 
-## 段階2〜: 深掘り(これから)
+## 段階2〜5: 深掘り(完了)
 
 - [x] 段階2 [`02-original/`](02-original/README.md) 原文を読み解く(重要語彙・文型)
 - [x] 段階3 [`03-reasons/`](03-reasons/README.md) なぜそう考えるのか(背景と理由)
 - [x] 段階4 [`04-aws/`](04-aws/README.md) AWSではどう実現するか(AWS技術ガイド対応)
-- [ ] 段階5 `05-practice/` 自分の言葉で言う(シャドーイング・言い換え)
+- [x] 段階5 [練習ページ](../../practice.md) 自分の言葉で言う(シャドーイング・言い換え)
 
 [← 大括りに戻る](../../overview.md)
