@@ -8,6 +8,7 @@
 - [topics/aws-db-and-donts.md](topics/aws-db-and-donts.md): 補章 AWSのDBは何がいい? / やめとけ一覧
 - [topics/app-dos-and-donts.md](topics/app-dos-and-donts.md): 補章 アプリの作り方 やったほうがいい / やめたほうがいい
 - [topics/managed-service-practice.md](topics/managed-service-practice.md): 補章 マネージドサービス活用実践ガイドを読む
+- [topics/cicd-iac-practice.md](topics/cicd-iac-practice.md): 補章 IaC と CI/CD(デリバリーパイプライン)を読む
 - [principles/](principles/): 考え方ごとのフォルダ。段階を追って深掘りする
 
 ## 書き分けの約束
