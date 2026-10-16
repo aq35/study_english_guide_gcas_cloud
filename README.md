@@ -14,6 +14,8 @@
 - [topics/operations-modernization.md](topics/operations-modernization.md): 補章 運用モダン化実践ガイドを読む(運用の進め方)
 - [topics/network-and-integration-aws.md](topics/network-and-integration-aws.md): 補章 ネットワーク接続とシステム間連携(AWS編)を読む
 - [topics/cost-optimization-finops.md](topics/cost-optimization-finops.md): 補章 コスト最適化アプローチと FinOps を読む
+- [topics/system-migration-aws.md](topics/system-migration-aws.md): 補章 システム移行ガイド(AWS編)と Replatform 移行ノウハウを読む
+- [topics/gcas-user-guide.md](topics/gcas-user-guide.md): 補章 GCASユーザーガイドと DevStack を読む(使い始めの入口)
 - [principles/](principles/): 考え方ごとのフォルダ。段階を追って深掘りする
 
 ## 書き分けの約束
