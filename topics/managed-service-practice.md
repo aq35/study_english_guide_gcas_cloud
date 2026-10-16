@@ -159,7 +159,7 @@
 | ログ | CloudTrail、CloudWatch Logs |
 | バックアップ | 各サービスのバックアップ機能、AWS Backup |
 | セキュリティ | AWS WAF、Network Firewall、GuardDuty、Security Hub、KMS |
-| パッチ・運用 | AWS Systems Manager |
+| 運用(インベントリ・自動化) | AWS Systems Manager(パッチ管理への利用は、ガイドの表には書かれていない) |
 
 推論: この対応は、AWS技術ガイドの別の表の分類による。このガイドの各章が、これらのサービスを名指しているわけではない。
 
