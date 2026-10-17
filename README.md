@@ -5,6 +5,7 @@
 - [overview.md](overview.md): 大括り(8つの考え方)
 - [linking-rules.md](linking-rules.md): リンキングのルール
 - [practice.md](practice.md): 段階5 自分の言葉で言う練習
+- [linking-drill.md](linking-drill.md): リンキングの反復ドリル(つまずきやすい音から。147 組の英文を音ごとに並べ直したもの)
 - [topics/aws-db-and-donts.md](topics/aws-db-and-donts.md): 補章 AWSのDBは何がいい? / やめとけ一覧
 - [topics/app-dos-and-donts.md](topics/app-dos-and-donts.md): 補章 アプリの作り方 やったほうがいい / やめたほうがいい
 - [topics/managed-service-practice.md](topics/managed-service-practice.md): 補章 マネージドサービス活用実践ガイドを読む
