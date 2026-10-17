@@ -19,7 +19,7 @@
 | 2 | [ネイティブ利用](principles/02-native-use/README.md) | 独自の共通機能は作らず、クラウドサービスをそのまま(ネイティブに)使う。 | We use cloud services natively and avoid building our own shared features. | ウィユーズ / クラウドサーヴィスィズ / ネイティヴリ / アンダヴォイド / ビルディンガワオウン / シェアドフィーチャーズ |
 | 3 | [単純移行で終わらせない](principles/03-modernize/README.md) | 古いシステムをそのまま移すだけでなく、モダン化しよう。 | Don't just move old systems as they are; modernize them. | ドウンッジャスト / ムーヴォウルドシステムズ / アズゼイアー / モダナイズゼム |
 | 4 | [責任共有モデル](principles/04-shared-responsibility/README.md) | マネージドサービスを使えば、自分たちの責任範囲とリスクは小さくなる。 | Managed services shrink your responsibility and your risk. | マニジドサーヴィスィズ / シュリンクヨア / リスポンスィビリティ / アンジョアリスク |
-| 5 | [SaaSは無条件の正解ではない](principles/05-saas-not-always/README.md) | SaaSが常に正解とは限らない。ライフサイクルコストで比べよう。 | SaaS is not always the answer; compare the lifecycle cost. | サースィズ / ナッオールウェイズ / ジアンサー / コンペアザ / ライフサイクルコスト |
+| 5 | [SaaSは無条件の正解ではない](principles/05-saas-not-always/README.md) | SaaSが常に正解とは限らない。ライフサイクルコストで比べよう。 | SaaS is not always the answer; compare the lifecycle cost. | サースィズ / ナロールウェイズ / ジアンサー / コンペアザ / ライフサイクルコスト |
 | 6 | [マルチクラウドは原則禁止](principles/06-no-multicloud/README.md) | 1つのシステムで複数のクラウドを使うのは、原則すすめない。 | Using multiple clouds in one system is generally not recommended. | ユーズィンマルティプル / クラウズィンワンシステム / イズジェネラリ / ナッレコメンディッド |
 | 7 | [データの可搬性](principles/07-data-portability/README.md) | アプリだけでなく、データも持ち運べるようにしよう。 | Make your data portable, not just your applications. | メイキョア / デイタポータブル / ナッジャスチュア / アプリケイションズ |
 | 8 | [継続的な見直しとコスト管理](principles/08-continuous-review/README.md) | 見直しを続けよう。見える化し、分析し、最適化する。 | Keep reviewing: visualize, analyze, then optimize. | キープリヴューイング / ヴィジュアライズ / アナライズ / ゼナプティマイズ |
@@ -55,7 +55,7 @@
 | 2 | 独自の共通機能は作らず、クラウドサービスをそのまま(ネイティブに)使う。 | <details><summary>答え</summary>We use cloud services natively and avoid building our own shared features.<br>ウィユーズ / クラウドサーヴィスィズ / ネイティヴリ / アンダヴォイド / ビルディンガワオウン / シェアドフィーチャーズ</details> |
 | 3 | 古いシステムをそのまま移すだけでなく、モダン化しよう。 | <details><summary>答え</summary>Don't just move old systems as they are; modernize them.<br>ドウンッジャスト / ムーヴォウルドシステムズ / アズゼイアー / モダナイズゼム</details> |
 | 4 | マネージドサービスを使えば、自分たちの責任範囲とリスクは小さくなる。 | <details><summary>答え</summary>Managed services shrink your responsibility and your risk.<br>マニジドサーヴィスィズ / シュリンクヨア / リスポンスィビリティ / アンジョアリスク</details> |
-| 5 | SaaSが常に正解とは限らない。ライフサイクルコストで比べよう。 | <details><summary>答え</summary>SaaS is not always the answer; compare the lifecycle cost.<br>サースィズ / ナッオールウェイズ / ジアンサー / コンペアザ / ライフサイクルコスト</details> |
+| 5 | SaaSが常に正解とは限らない。ライフサイクルコストで比べよう。 | <details><summary>答え</summary>SaaS is not always the answer; compare the lifecycle cost.<br>サースィズ / ナロールウェイズ / ジアンサー / コンペアザ / ライフサイクルコスト</details> |
 | 6 | 1つのシステムで複数のクラウドを使うのは、原則すすめない。 | <details><summary>答え</summary>Using multiple clouds in one system is generally not recommended.<br>ユーズィンマルティプル / クラウズィンワンシステム / イズジェネラリ / ナッレコメンディッド</details> |
 | 7 | アプリだけでなく、データも持ち運べるようにしよう。 | <details><summary>答え</summary>Make your data portable, not just your applications.<br>メイキョア / デイタポータブル / ナッジャスチュア / アプリケイションズ</details> |
 | 8 | 見直しを続けよう。見える化し、分析し、最適化する。 | <details><summary>答え</summary>Keep reviewing: visualize, analyze, then optimize.<br>キープリヴューイング / ヴィジュアライズ / アナライズ / ゼナプティマイズ</details> |

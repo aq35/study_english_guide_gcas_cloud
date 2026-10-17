@@ -15,15 +15,15 @@
 2. **チャンク + 前後**: その息継ぎの前後だけをつなげて 3 回。
 3. **文を通す**: 日本語だけ見て、英語で言う。止まった所が、まだつながっていない所。
 
-つまずきやすい順に 1 → 5。1 日 1 つでよい。
+つまずきやすい順に 1 → 6。1 日 1 つでよい。
 
 ---
 
-## ドリル 1: 消える t(not / don't / cut / just)
+## ドリル 1: 止める t(子音の前)
 
-**決まり**: [linking-rules.md](linking-rules.md) の 3(語末の t / d は弱く、小さい `ッ`)
+**決まり**: [linking-rules.md](linking-rules.md) の 3
 
-推論: 日本語は t をはっきり出す。「ノット」と言うと、そこで息が切れて、**後ろの語が聞き取れなくなる**。t は止めるだけにして、息を切らずに次の語へ渡す。このリポジトリで一番よく出る形。
+推論: 日本語は t をはっきり出す。「ノット」と言うと、そこで息が切れて、**後ろの語が聞き取れなくなる**。t は**止めるだけ**にして、息を切らずに次の語へ渡す。
 
 ### チャンクだけ
 
@@ -31,7 +31,6 @@
 |---|---|---|
 | カッコスツ | cut costs | [overview.md](overview.md) 1 |
 | ドウンッジャスト | Don't just | [overview.md](overview.md) 3 |
-| ナッオールウェイズ | not always | [overview.md](overview.md) 5 |
 | ナッジャスチュア | not just your | [overview.md](overview.md) 7 |
 | ナッゲイツ | not gates | [principles/02-native-use/04-aws/](principles/02-native-use/04-aws/README.md) |
 | ナットバイハンド | not by hand | [topics/app-dos-and-donts.md](topics/app-dos-and-donts.md) |
@@ -49,7 +48,37 @@
 
 ---
 
-## ドリル 2: `-ing` + 母音(g が次へ渡る)
+## ドリル 2: ラ行になる t(母音の前)
+
+**決まり**: [linking-rules.md](linking-rules.md) の 10(2026-10-17 に足した)
+
+推論: **同じ `not` でも、次が母音ならラ行**になる。`not by hand` は「ナット」、`not always` は「ナロー…」。ここが一番つまずく。聞き取れないのも、たいていこの形。
+
+### チャンクだけ
+
+| カタカナ | 英語 | 出どころ |
+|---|---|---|
+| ナロールウェイズ | not always | [overview.md](overview.md) 5 |
+| ナリナフ | not enough | [principles/01-target-state/03-reasons/](principles/01-target-state/03-reasons/README.md) |
+| ナロンイーシーツー | not on EC2 | [topics/aws-db-and-donts.md](topics/aws-db-and-donts.md) |
+| ナラバックアップ | not a backup | [topics/managed-service-practice.md](topics/managed-service-practice.md) |
+| ゲラジーキャスアカウント | get a GCAS account | [topics/gcas-user-guide.md](topics/gcas-user-guide.md) |
+| ソウイリズ | so it is | [principles/05-saas-not-always/02-original/](principles/05-saas-not-always/02-original/README.md) |
+| ワリズトゥルーリーアージェント | what is truly urgent | [topics/system-migration-aws.md](topics/system-migration-aws.md) |
+| ウィザウラスーミング | without assuming | [topics/system-migration-aws.md](topics/system-migration-aws.md) |
+
+### 文を通す
+
+| 日本語 | English | カタカナ |
+|---|---|---|
+| SaaSが常に正解とは限らない。ライフサイクルコストで比べよう。 | SaaS is not always the answer; compare the lifecycle cost. | サースィズ / ナロールウェイズ / ジアンサー / コンペアザ / ライフサイクルコスト |
+| 私たちは、移行するだけでは足りないから、クラウドを賢く使う。 | We use the cloud smartly because moving is not enough. | ウィユーズザクラウドスマートリー / ビコーズムーヴィングイズナリナフ |
+| データベースは、EC2ではなくマネージドサービスで動かす。 | Run the database as a managed service, not on EC2. | ランザデイタベイスアザマニジドサーヴィス / ナロンイーシーツー |
+| 耐久性のあるストレージは、バックアップではない。 | Durable storage is not a backup. | デュアラブルストレージ / イズナラバックアップ |
+
+---
+
+## ドリル 3: `-ing` + 母音(g が次へ渡る)
 
 **決まり**: [linking-rules.md](linking-rules.md) の 9
 
@@ -61,11 +90,11 @@
 |---|---|---|
 | ビルディンガワオウン | building our own | [overview.md](overview.md) 2 |
 | ビルディンガンオペレイティング | Building and operating | [principles/02-native-use/02-original/](principles/02-native-use/02-original/README.md) |
-| ユーズィンゲイダブリューエス | using AWS | [principles/02-native-use/04-aws/](principles/02-native-use/04-aws/README.md)（※） |
-| メイキンゴウンリ | making only | [principles/07-data-portability/02-original/](principles/07-data-portability/02-original/README.md)（※） |
-| デュアリンガペレイション | during operation | [principles/07-data-portability/02-original/](principles/07-data-portability/02-original/README.md)（※） |
+| ユーズィンゲイダブリューエス | using AWS | [principles/02-native-use/04-aws/](principles/02-native-use/04-aws/README.md) |
+| メイキンゴウンリ | making only | [principles/07-data-portability/02-original/](principles/07-data-portability/02-original/README.md) |
+| デュアリンガペレイション | during operation | [principles/07-data-portability/02-original/](principles/07-data-portability/02-original/README.md) |
 
-※ 出どころの文では、まだつながっていない書き方（ユーズィン**グエ**イ…）になっている。下の「気づいたこと」を見る。
+※ 出どころの文は、2026-10-17 にこの形へそろえた。下の「そろえたこと」を見る。
 
 ### 文を通す
 
@@ -78,7 +107,7 @@
 
 ---
 
-## ドリル 3: t / d + you(チュ・ジョ)
+## ドリル 4: t / d + you(チュ・ジョ)
 
 **決まり**: [linking-rules.md](linking-rules.md) の 4 と 5
 
@@ -105,7 +134,7 @@
 
 ---
 
-## ドリル 4: 弱形(the / to / and / of)
+## ドリル 5: 弱形(the / to / and / of)
 
 **決まり**: [linking-rules.md](linking-rules.md) の 7
 
@@ -125,11 +154,11 @@
 
 | 日本語 | English | カタカナ |
 |---|---|---|
-| SaaSが常に正解とは限らない。ライフサイクルコストで比べよう。 | SaaS is not always the answer; compare the lifecycle cost. | サースィズ / ナッオールウェイズ / ジアンサー / コンペアザ / ライフサイクルコスト |
+| SaaSが常に正解とは限らない。ライフサイクルコストで比べよう。 | SaaS is not always the answer; compare the lifecycle cost. | サースィズ / ナロールウェイズ / ジアンサー / コンペアザ / ライフサイクルコスト |
 
 ---
 
-## ドリル 5: 子音 + 母音(語の切れ目が消える)
+## ドリル 6: 子音 + 母音(語の切れ目が消える)
 
 **決まり**: [linking-rules.md](linking-rules.md) の 1 と 8
 
@@ -155,22 +184,19 @@
 
 ---
 
-## 気づいたこと(カタカナの書き方が 2 通りある所)
+## そろえたこと(2026-10-17)
 
-147 組を並べると、**同じ決まりなのに書き方が違う**所が見つかった。練習の前に、どちらで覚えるかを決めたい。
+147 組を並べたら、**同じ決まりなのに書き方が違う**所があった。練習で混ざるので、**アメリカ英語に合わせて 27 か所そろえた**(本人「どっちでもいい」)。
 
-| 何が | 片方 | もう片方 | 推論 |
+| 何が | 前 | 後 | 数 |
 |---|---|---|---|
-| `-ing` + 母音 | `building our own` → ビルディン**ガ**ワオウン(つながる) | `using AWS` → ユーズィン**グエ**イダブリューエス、`making only` → メイキン**グオ**ンリ、`during operation` → デュアリン**グア**ペレイション(つながっていない) | 決まり 9 を当てるなら、**ユーズィンゲイ…／メイキンゴウンリ／デュアリンガペレイション**。ドリル 2 はこの形で練習する |
-| `not` の t | `not always` → **ナッ**オールウェイズ | `not on EC2` → **ナット**オンイーシーツー | どちらも母音の前。書き方をそろえたい |
-| `the Government` | ザガヴァメ**ン**クラウド | ザガヴァメ**ント**クラウド | 同じ語で 2 通り |
+| 母音の前の t(ラ行) | ナッオールウェイズ / ナットイナフ / ナットオンイーシーツー / ナットアバックアップ / ゲタジーキャス / ソウイティズ / ユージットオンリ / セタマンスリ / ワットイズ / イットインクリースィズ / イットアプライズ / ウィザウトアスーミング / セットアップ | ナロールウェイズ / ナリナフ / ナロンイーシーツー / ナラバックアップ / ゲラジーキャス / ソウイリズ / ユーズィロウンリ / セラマンスリ / ワリズ / イリンクリースィズ / イラプライズ / ウィザウラスーミング / セラップ | 20 |
+| `-ing` + 母音(決まり 9) | ユーズィン**グエ**イ… / メイキン**グオ**ンリ / デュアリン**グア**ペレイション | ユーズィン**ゲ**イ… / メイキン**ゴ**ウンリ / デュアリン**ガ**ペレイション | 3 |
+| 同じ語で 2 通り | ザガヴァメ**ント**クラウド | ザガヴァメ**ン**クラウド | 4 |
 
-### 決めたいこと: 母音の前の t をどうするか
-
-- このリポジトリは、t を**止める**書き方(ナッオールウェイズ)。[linking-rules.md](linking-rules.md) の 3 もそれ。
-- 推論: アメリカ英語では、母音にはさまれた t は**ラ行に近い音**(フラップ)になりやすい。`not always` は「ナラ(ー)ルウェイズ」、`not enough` は「ナリナフ」に近い。
-- 別の教材(`english-app` の `content/core/linking.json`)は、フラップで書いている(`get it` → ゲリッ、`a lot of` → アララ)。**同じ人が 2 つの書き方で練習すると混ざる**ので、どちらかにそろえたい。
-- ※未検証: 本人がどちらの音で聞き取りたいか(アメリカ英語に寄せるか、止める書き方のままか)はまだ決めていない。
+- 決めた理由: アプリで鳴らす声(Kokoro の `am_michael` など)が**アメリカ英語**だから。聞こえる音とカタカナが食い違うと、そこでつまずく。`english-app` の `content/core/linking.json`(`get it` → ゲリッ)とも同じ書き方になった。
+- 決まり 10 と、その注意(子音のあとはラ行にしない、`n` + t は消える)は [linking-rules.md](linking-rules.md) に書いた。
+- ※未検証: 本人の耳で確かめていない。実際の音を聴いて違ったら直す。
 
 ---
 

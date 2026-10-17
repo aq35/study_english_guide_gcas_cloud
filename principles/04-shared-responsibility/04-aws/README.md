@@ -46,7 +46,7 @@ OS・ミドルウェア・高可用性の管理が不要になる。
 - **原文**: ガバメントクラウド(AWS)では、Organizations、SCP、Control Towerを使用し、予防的統制を実現している。
 - **日本語訳**: ガバメントクラウドは、SCPとControl Towerで、危ない操作を前もって止めている。
 - **English**: The Government Cloud applies guardrails with SCPs and Control Tower.
-- **カタカナ**: ザガヴァメントクラウド / アプライズガードレイルズ / ウィズエスシーピーズアンコントロールタワー
+- **カタカナ**: ザガヴァメンクラウド / アプライズガードレイルズ / ウィズエスシーピーズアンコントロールタワー
 
 ## 3層で整理する
 
